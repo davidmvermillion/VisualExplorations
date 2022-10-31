@@ -1,4 +1,4 @@
-# Workspace Intialization -------------------------------------------------
+# Workspace Initialization -------------------------------------------------
 
 packages <- c('tidyverse', 'ggalt')
 lapply(packages, library, character.only = TRUE)
@@ -75,7 +75,7 @@ data$index = 1:length(data$x)
 data %>% ggplot(aes(x = index, y = x)) +
   theme_void2(
     ) +
-  geom_line(color = '#e34234', size = 1.5) +
+  geom_line(color = '#e34234', size = 1) +
   ggtitle('Sunspots from 1749 and 1750')
   
 
@@ -84,5 +84,5 @@ data %>% ggplot(aes(x = index, y = x)) +
 data %>% ggplot(aes(x = index, y = x)) +
   theme_void2(
   ) +
-  geom_xspline(spline_shape=-0.4, size=1.5, color = '#e34234') +
+  geom_xspline(spline_shape=-0.4, size=1, color = '#e34234') +
   ggtitle('Sunspots from 1749 and 1750')
