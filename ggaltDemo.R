@@ -84,5 +84,5 @@ data %>% ggplot(aes(x = index, y = x)) +
 data %>% ggplot(aes(x = index, y = x)) +
   theme_void2(
   ) +
-  geom_xspline(spline_shape=-0.4, size=1, color = '#e34234') +
+  geom_xspline(spline_shape = -0.4, size = 1, color = '#e34234') +
   ggtitle('Sunspots from 1749 and 1750')
