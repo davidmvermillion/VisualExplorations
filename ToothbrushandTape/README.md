@@ -5,8 +5,8 @@ Contrived approximation dataset (low confidence) shows average household in the 
 
 ## Files
 1. [Toothbrush_Calculations.csv]() is the final data with no decimal places.
-2. [Toothbrush_Calculations.ods]() is the calculated data.
-
+2. [Toothbrush_Calculations.ods]() has the calculated data and generated visual.
+3. [Toothbrushes.jpg]() is the suggested image. Also PNG and SVG versions, generated from Google Sheets upload of the calculation document for formatting.
 
 ## Data Sources
 1. [Apollo Toothbrushes](https://www.kleenteeth.com/kleenteeth.com/blogoral-care-in-outer-space-the-curious-story-of-toothbrushes-in-space/#:~:text=The%20Apollo%2011%20missions%20include,and%20an%20additional%20dental%20floss.)
