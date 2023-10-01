@@ -1,7 +1,7 @@
 # Toothbrushes and Scotch Tape
-A tongue-in-cheek exploration of data science using toothbrushes and scotch tape. Inspired by Dr. Ferguson's [post](https://www.linkedin.com/posts/glenferguson_is-it-just-me-or-is-affiliate-marketing-becoming-activity-7109607461791100929-CL8M?). Couldn't find traditional clear office tape and didn't want to delve into it more, so focused on toothbrushes.
+This is a tongue-in-cheek exploration of data science using toothbrushes and scotch tape! Inspired by Dr. Ferguson's [post](https://www.linkedin.com/posts/glenferguson_is-it-just-me-or-is-affiliate-marketing-becoming-activity-7109607461791100929-CL8M?) about excessive marketing on LinkedIn. I couldn't find traditional clear office tape mentioned in sources from quick Google searches and didn't want to delve into it more, so I focused on toothbrushes.
 
-Contrived approximation dataset (low confidence) shows average household in the United States uses half the number of toothbrushes as fly in space per year.
+This is based off a contrived approximation dataset (low confidence) that shows the average household in the United States uses half the number of toothbrushes as fly in space per year. A process video is forthcoming that will cover how I came up with the dataset.
 
 ![Final silly demo](https://github.com/davidmvermillion/VisualExplorations/blob/main/ToothbrushandTape/Toothbrushes.jpg)
 
