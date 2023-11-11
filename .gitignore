@@ -37,3 +37,6 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# Massive Dataset
+Mars/ESP_072719_1970_RED.JP2
