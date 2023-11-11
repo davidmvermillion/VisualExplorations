@@ -1,6 +1,8 @@
 # Mars Project
 A computer vision project to extract features from a single dense image of Mars from the Mars Reconnaissance Orbiter.
 
+![Thumbnail Image](https://github.com/davidmvermillion/VisualExplorations/blob/main/Mars/ESP_072719_1970_RED.browse.jpg)
+
 # Project Plan
 
 1. Examine image for extractable features
@@ -9,6 +11,7 @@ A computer vision project to extract features from a single dense image of Mars 
 	c. Ejecta diameters
 	d. Ridge counts
 	e. Compare smooth to cratered surface statistics
+	f. Boulder counts
 2. Determine package and pre-trained model to use
 3. Determine computer vision model to use
 
