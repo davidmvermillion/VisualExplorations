@@ -40,3 +40,4 @@ vignettes/*.pdf
 
 # Massive Dataset
 Mars/ESP_072719_1970_RED.JP2
+.DS_Store
